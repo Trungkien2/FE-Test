@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "completed": false,
+      "text": "Go to the grocery",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "text": "Do the laundry",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "text": "Walk the dog",
+      "completed": false
+    }
+  ]
+}
